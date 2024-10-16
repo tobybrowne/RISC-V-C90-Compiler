@@ -1,4 +1,4 @@
-# RIS`CC`-V
+# RISC-V C90 Compiler
 C90 compiler targeting RISC-V (RV32IMDF).
 
 ## Style Guide
